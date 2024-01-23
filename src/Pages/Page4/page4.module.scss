@@ -1,0 +1,20 @@
+.mainWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 30px 0px;
+
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.heroimage {
+  height: 100%;
+}
+.big {
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 20px;
+}

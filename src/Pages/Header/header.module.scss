@@ -1,0 +1,20 @@
+.mainwrapper {
+  border-bottom: 1px solid grey;
+  padding: 10px 0px;
+  position: sticky;
+  top: 0;
+  background-color: #ffffff;
+}
+.home {
+  display: flex;
+  justify-content: space-evenly;
+  cursor: pointer;
+  gap: 30px;
+}
+.links {
+  // padding: 0px 30px;
+  &:hover {
+    border-bottom: 1px solid #111b47;
+    max-width: max-content;
+  }
+}
